@@ -82,11 +82,7 @@ The React app runs on [http://localhost:3000](http://localhost:3000) and the API
 - `POST /api/auth/login` — Login and receive JWT
 - `GET /api/auth/me` — Get current user (protected)
 
-## Screenshots
-_Add screenshots here if you want to show off the UI!_
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](LICENSE)
