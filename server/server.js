@@ -36,7 +36,7 @@ app.use((req, res, next) => {
 
 app.use("/api/auth", require("./routes/authRoutes"));
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 // Start server
 const server = app.listen(PORT, () => {
